@@ -1,8 +1,0 @@
-TODO
-
-
--Look at segmentation fault (probably occurs while writing output)
-
--Investigate QTextBlock and QTextCursor errors
--Fix asymmtery between rotors' power (probably due to different zero speeds or scaling) {The RPi PWM output has incorrect gain, such that there is a drift and 1100us = 1100us but 1990us = 1900us}
--Look at nanosleep
